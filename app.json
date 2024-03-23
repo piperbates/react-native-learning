@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-learning",
-    "slug": "react-native-learning",
+    "slug": "pkmn-151",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de9fdb43-8711-4e92-8f59-d36885861268"
+      }
+    },
+    "owner": "pipsqueak42",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/de9fdb43-8711-4e92-8f59-d36885861268"
     }
   }
 }
